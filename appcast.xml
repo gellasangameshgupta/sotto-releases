@@ -5,6 +5,27 @@
     <description>Most recent updates to Sotto</description>
     <language>en</language>
     <item>
+      <title>Version 1.1</title>
+      <description><![CDATA[
+        <h2>Sotto 1.1 - AI Enhancement</h2>
+        <ul>
+          <li><strong>AI Enhancement:</strong> Uses Groq Llama 3.3 to automatically clean up transcriptions</li>
+          <li>Removes filler words (um, uh, like, you know)</li>
+          <li>Fixes grammar and punctuation</li>
+          <li>Cleans up repeated words and false starts</li>
+          <li>Toggle on/off in Settings → Transcription</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gellasangameshgupta/sotto-releases/releases/download/v1.1/Sotto.zip"
+                 sparkle:edSignature="2bZiEWbyyAE1mmVhX2fkFluUyWJtedoMAPJHTYBjBazqYbljSEtNS89fKyqLaVOKLzU3i5xRv9Em9c0q7T0KCg=="
+                 length="2780693"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.0</title>
       <description><![CDATA[
         <h2>Sotto 1.0 - Initial Release</h2>
