@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sotto Updates</title>
+    <description>Most recent updates to Sotto</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <description><![CDATA[
+        <h2>Sotto 1.0 - Initial Release</h2>
+        <ul>
+          <li>Voice-to-text dictation using WhisperKit (fully local, private)</li>
+          <li>Global hotkey to start/stop recording</li>
+          <li>Screen context awareness for improved accuracy</li>
+          <li>Custom vocabulary support</li>
+          <li>Transcription history with search</li>
+          <li>Auto-paste or clipboard output modes</li>
+          <li>Auto-update capability via Sparkle</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gellasangameshgupta/sotto-releases/releases/download/v1.0/Sotto.zip"
+                 sparkle:edSignature="tb5W80UNXAN0sIrVbMzYPOl3/styX6vu6DHZVf/azJ+34AXZJfpGLRGysGNuQE59os0jWqEFGFFQIs3NLT/hDw=="
+                 length="2638037"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
