@@ -5,6 +5,29 @@
     <description>Most recent updates to Sotto</description>
     <language>en</language>
     <item>
+      <title>Version 1.5</title>
+      <description><![CDATA[
+        <h2>Sotto 1.5 - Navigation Redesign</h2>
+        <ul>
+          <li><strong>New Navigation:</strong> Reorganized sidebar with clearer tab names</li>
+          <li><strong>Settings Sections:</strong> Split into General, Transcription, and System</li>
+          <li><strong>Help Tab:</strong> New Getting Started guide and Keyboard Shortcuts reference</li>
+          <li><strong>Launch at Login:</strong> Option to start Sotto when Mac boots</li>
+          <li><strong>Dock Icon Toggle:</strong> Hide dock icon for menu-bar only mode</li>
+          <li><strong>Auto-load Model:</strong> Whisper model now loads automatically on startup</li>
+          <li>Renamed tabs: Instructions → App Modes, Dictionary → Vocabulary</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Feb 2026 16:00:00 +0530</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gellasangameshgupta/sotto-releases/releases/download/v1.5/Sotto.zip"
+                 sparkle:edSignature="UiP7bymZrdLVMJ5JIgQihMZf8N3axHpcvb/I9I0hoiEBmCMqiDpzOQZJqmrUyi7pLJopkaxn6eq3HztldF/ABQ=="
+                 length="2900717"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1</title>
       <description><![CDATA[
         <h2>Sotto 1.1 - AI Enhancement</h2>
