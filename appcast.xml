@@ -5,6 +5,29 @@
     <description>Most recent updates to Sotto</description>
     <language>en</language>
     <item>
+      <title>Version 1.7</title>
+      <description><![CDATA[
+        <h2>Sotto 1.7 - User Accounts & Cloud Sync</h2>
+        <ul>
+          <li><strong>User Authentication:</strong> Sign in with Email or Google account</li>
+          <li><strong>Cloud Sync:</strong> Your usage stats sync across devices</li>
+          <li><strong>Account Dashboard:</strong> View profile, subscription status, and lifetime stats</li>
+          <li><strong>Leaderboard:</strong> Opt-in to compete on the global word count leaderboard</li>
+          <li><strong>Rankings:</strong> See your rank and percentile among all Sotto users</li>
+          <li>7-day free trial for new users</li>
+          <li>Powered by Supabase backend</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Feb 2026 21:30:00 +0530</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gellasangameshgupta/sotto-releases/releases/download/v1.7/Sotto.zip"
+                 sparkle:edSignature="UVs3lSDrT9FtoQFIvHMsGrQ2fdEDg6JVGLyNpxi0wu0BOWUUG3NyLpE1s+2FNkTnuXhbmcKB4CiAHJUny0ioBQ=="
+                 length="4541771"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.2</title>
       <description><![CDATA[
         <h2>Sotto 1.6.2 - What's New</h2>
