@@ -5,6 +5,24 @@
     <description>Most recent updates to Sotto</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.2</title>
+      <description><![CDATA[
+        <h2>Sotto 1.6.2 - What's New</h2>
+        <ul>
+          <li><strong>What's New:</strong> View release history and changelogs in Help tab</li>
+          <li>See all past updates and feature additions</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Feb 2026 20:00:00 +0530</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gellasangameshgupta/sotto-releases/releases/download/v1.6.2/Sotto.zip"
+                 sparkle:edSignature="x4XaEYhGjvwjgumbdXnerM2FQTC58Z/OIX52UH54W/z85weQ2EW7oaTmoUR1fOSGjxfN26Fycab9bnKLGE7FAg=="
+                 length="2895217"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.1</title>
       <description><![CDATA[
         <h2>Sotto 1.6.1 - Bug Fix</h2>
