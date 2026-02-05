@@ -5,6 +5,24 @@
     <description>Most recent updates to Sotto</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.1</title>
+      <description><![CDATA[
+        <h2>Sotto 1.6.1 - Bug Fix</h2>
+        <ul>
+          <li><strong>Fixed:</strong> LLM was answering dictated questions instead of just cleaning them up</li>
+          <li>Transcriptions now preserve your original intent - questions remain questions</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Feb 2026 19:00:00 +0530</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gellasangameshgupta/sotto-releases/releases/download/v1.6.1/Sotto.zip"
+                 sparkle:edSignature="xq+B/qQPpZP1ql9VeT5Gyl8XGS9BQndoYBAhhNRiDZYEgSmjNmSbjmRmJJog2MeSVVmz7J1LnL15lILRO1fxAQ=="
+                 length="2962697"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6</title>
       <description><![CDATA[
         <h2>Sotto 1.6 - App Picker & Enhanced Modes</h2>
