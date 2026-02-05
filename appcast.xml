@@ -5,6 +5,28 @@
     <description>Most recent updates to Sotto</description>
     <language>en</language>
     <item>
+      <title>Version 1.6</title>
+      <description><![CDATA[
+        <h2>Sotto 1.6 - App Picker & Enhanced Modes</h2>
+        <ul>
+          <li><strong>App Picker:</strong> Browse and select apps from /Applications instead of typing names</li>
+          <li><strong>Website Matching:</strong> Add website domains to match when browsing (e.g., github.com)</li>
+          <li><strong>Chip UI:</strong> Selected apps and websites shown as removable chips</li>
+          <li><strong>Default Instructions:</strong> Editable default instructions in App Modes tab</li>
+          <li><strong>Override Toggle:</strong> Each mode can optionally override default instructions</li>
+          <li>Automatic migration from old format to new structured data</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Feb 2026 17:30:00 +0530</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gellasangameshgupta/sotto-releases/releases/download/v1.6/Sotto.zip"
+                 sparkle:edSignature="v0Nzn7RDAUz/t5yQZ4DQOR3l22yUG36ymvirTyGcXDBdqZcXigHDnhSbuVv0MOqgyKE5nKbqCjazYDj9ngMMBA=="
+                 length="2962536"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.5</title>
       <description><![CDATA[
         <h2>Sotto 1.5 - Navigation Redesign</h2>
